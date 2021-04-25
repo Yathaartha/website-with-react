@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import Header from "../Common/Header";
 import image from "../assets/img/header-bg.jpg";
-import About from "./About";
 
 // Re-usable componnets
 import Services from "../Common/Services";
 import Portfolio from "../Common/Portfolio";
+import Timeline from "../Common/Timeline";
 import Team from "../Common/Team";
 import Clients from "../Common/Clients";
 
@@ -23,7 +23,7 @@ class Home extends Component {
         />
         <Services />
         <Portfolio />
-        <About />
+        <Timeline />
         <Team />
         <Clients />
       </div>
