@@ -1,13 +1,5 @@
 import React, { Component } from "react";
 
-const services = [
-  {
-    title: "E-Commerce",
-    description: "",
-    icon: "fa-shopping-cart",
-  },
-];
-
 class SingleService extends Component {
   render() {
     return (

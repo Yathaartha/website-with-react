@@ -5,12 +5,12 @@ class About extends Component {
   render() {
     return (
       <div>
-        <Header
+        {/* <Header
           title="About Us"
           subtitle="It's really a great story"
           showButton={false}
           image={image}
-        />
+        /> */}
         <section className="page-section" id="about">
           <div className="container">
             <div className="text-center">
