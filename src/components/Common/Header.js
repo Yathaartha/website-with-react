@@ -7,7 +7,7 @@ class Header extends Component {
       <div>
         <header
           className="masthead"
-          style={{ backgroundImage: this.props.image }}
+          style={{ backgroundImage: `url(${this.props.image})` }}
         >
           <div className="container">
             <div className="masthead-subheading">{this.props.title}</div>
