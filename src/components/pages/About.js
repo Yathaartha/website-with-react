@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Header from "../Common/Header";
 import image from "../assets/img/about.JPG";
 import Timeline from "../Common/Timeline";
+import Team from "../Common/Team";
 class About extends Component {
   render() {
     return (
@@ -13,16 +14,7 @@ class About extends Component {
           image={image}
         />
         <Timeline />
-        <section className="page-section" id="about">
-          <div className="container">
-            <div className="text-center">
-              <h2 className="section-heading text-uppercase">About</h2>
-              <h3 className="section-subheading text-muted">
-                Lorem ipsum dolor sit amet consectetur.
-              </h3>
-            </div>
-          </div>
-        </section>
+        <Team />
       </div>
     );
   }
