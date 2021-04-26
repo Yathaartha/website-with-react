@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/website-with-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/website-with-react/static/js/main.46cfa7d3.chunk.js",
+    "main.js.map": "/website-with-react/static/js/main.46cfa7d3.chunk.js.map",
+    "runtime-main.js": "/website-with-react/static/js/runtime-main.6e61f9d7.js",
+    "runtime-main.js.map": "/website-with-react/static/js/runtime-main.6e61f9d7.js.map",
+    "static/js/2.ec09b65c.chunk.js": "/website-with-react/static/js/2.ec09b65c.chunk.js",
+    "static/js/2.ec09b65c.chunk.js.map": "/website-with-react/static/js/2.ec09b65c.chunk.js.map",
+    "static/js/3.5a59074c.chunk.js": "/website-with-react/static/js/3.5a59074c.chunk.js",
+    "static/js/3.5a59074c.chunk.js.map": "/website-with-react/static/js/3.5a59074c.chunk.js.map",
+    "index.html": "/website-with-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/website-with-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ec09b65c.chunk.js.LICENSE.txt": "/website-with-react/static/js/2.ec09b65c.chunk.js.LICENSE.txt",
+    "static/media/01-thumbnail.d385a874.jpg": "/website-with-react/static/media/01-thumbnail.d385a874.jpg",
+    "static/media/02-thumbnail.27d2ce98.jpg": "/website-with-react/static/media/02-thumbnail.27d2ce98.jpg",
+    "static/media/03-thumbnail.795aa1c4.jpg": "/website-with-react/static/media/03-thumbnail.795aa1c4.jpg",
+    "static/media/04-thumbnail.f47b27cd.jpg": "/website-with-react/static/media/04-thumbnail.f47b27cd.jpg",
+    "static/media/05-thumbnail.4a83149e.jpg": "/website-with-react/static/media/05-thumbnail.4a83149e.jpg",
+    "static/media/06-thumbnail.eab18fc0.jpg": "/website-with-react/static/media/06-thumbnail.eab18fc0.jpg",
+    "static/media/1.8096bd38.jpg": "/website-with-react/static/media/1.8096bd38.jpg",
+    "static/media/2.afc6a490.jpg": "/website-with-react/static/media/2.afc6a490.jpg",
+    "static/media/3.48f0ef24.jpg": "/website-with-react/static/media/3.48f0ef24.jpg",
+    "static/media/about.410dcc14.JPG": "/website-with-react/static/media/about.410dcc14.JPG",
+    "static/media/header-bg.3b848536.jpg": "/website-with-react/static/media/header-bg.3b848536.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e61f9d7.js",
+    "static/js/2.ec09b65c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.46cfa7d3.chunk.js"
+  ]
+}
