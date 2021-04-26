@@ -60,7 +60,11 @@ class Contact extends Component {
               Lorem ipsum dolor sit amet consectetur.
             </h3>
           </div>
-          <form id="contactForm" name="sentMessage" novalidate="novalidate">
+          <form
+            name="sentMessage"
+            novalidate="novalidate"
+            onSubmit={this.submitForm}
+          >
             <div className="row align-items-stretch mb-5">
               {fields.sections.map((section, sectionIndex) => {
                 console.log("Rendering section", sectionIndex, "with", section);
@@ -87,7 +91,6 @@ class Contact extends Component {
               <button
                 className="btn btn-primary btn-xl text-uppercase"
                 type="submit"
-                onCLick={(e) => this.submitForm}
               >
                 Send Message
               </button>
